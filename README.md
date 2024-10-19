@@ -1,2 +1,2 @@
-# first
-for learning github
+# first cource
+for learning github by elzero school
